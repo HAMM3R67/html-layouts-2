@@ -1,0 +1,96 @@
+body {
+	background-color: white;
+	position: relative;
+}
+
+.topBlack {
+	background-color: black;
+	height:7%;
+	margin: 0;
+}
+
+.apple {
+	color: white;
+	position: absolute;
+	top: 17;
+	left: 32;
+}
+
+.google {
+	color: white;
+	position: absolute;
+	top: 17;
+	left: 100;
+}
+
+.bodyParent div {
+	width: 38%
+
+}
+
+.header {
+	font-size: xx-large;
+	position: absolute;
+	top: 146px;
+	left: 43px;
+}
+
+.firstP {
+	position: absolute;
+	top: 189px;
+	left: 43px;
+}
+
+.secondP {
+	position: absolute;
+	top: 378px;
+	left: 43px;
+}
+
+.thirdP {
+	position: absolute;
+	top: 567px;
+	left: 43px;
+}
+
+.fourthP {
+	position: absolute;
+	bottom: -171px;
+	left: 43px;
+}
+
+.fifthP {
+	position: absolute;
+	bottom: -365px;
+	left: 43px;
+}
+
+.grayBox {
+	position: absolute;
+	bottom: 382px;
+	right: 39px;
+	background-color: gray;
+	height: 28%;
+}
+
+.sixthP {
+	position: absolute;
+	bottom: 181px;
+	right: 39px;
+	height: 22%;
+}
+
+.seventhP {
+	position: absolute;
+	bottom: -14px;
+	right: 39px;
+	height: 22%;
+}
+
+.botBlack {
+	background-color: black;
+	height: 7%;
+	width: 100%;
+	position: absolute;
+	bottom: -436px;
+}
